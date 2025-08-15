@@ -1,5 +1,5 @@
 ## 📌 Overview
-`learn-ML` is a curated collection of **Jupyter Notebooks** designed to make the journey into **Machine Learning** clear, practical, and beginner-friendly.  
+`Core-ML-Concepts` is a curated collection of **Jupyter Notebooks** designed to make the journey into **Machine Learning** clear, practical, and beginner-friendly.  
 It starts with **statistical fundamentals** like mean, median, standard deviation, and progresses towards **key ML algorithms** such as decision trees, logistic regression, clustering methods, and model evaluation metrics.  
 The notebooks focus on **hands-on learning** with clean, well-commented Python code, clear explanations, and visualizations to make complex concepts approachable.
 
